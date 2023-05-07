@@ -260,7 +260,7 @@ This report was generated on `r format(Sys.Date(), format = "%B %d, %Y")`.
 About Report
 ========================================
 
-Created by: Data Scientist at ABC
+Created by: Priyanshu Verma
 
 Confidential: HIGHLY!
 
